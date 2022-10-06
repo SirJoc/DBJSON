@@ -1,0 +1,540 @@
+{
+    "tipos": [
+        {
+            "id": 1,
+            "tipo": "Ordinaria"
+        },
+        {
+            "id": 2,
+            "tipo": "Extraordinaria"
+        }
+
+    ],
+    "modalidad": [
+        {
+            "id": 1,
+            "tipo": "Presencial"
+        },
+        {
+            "id": 2,
+            "tipo": "Mixta"
+        },
+        {
+            "id": 3,
+            "tipo": "Virtual"
+        }
+    ],
+    "sesiones" : [
+        {
+            "id": 1,
+            "numero_sesion": 1,
+            "fecha": "12-12-12",
+            "tipo": "Ordinaria",
+            "modalidad": "Presencial",
+            "asistentes": [
+              {
+                "id": 1,
+                "nombres": "Giacomo",
+                "apellido_paterno": "Guilizzoni",
+                "apellido_materno": "Guilizzoni"
+              },
+              {
+                "id": 2,
+                "nombres": "Juan",
+                "apellido_paterno": "Montes",
+                "apellido_materno": "Guilizzoni"
+              }
+            ],
+            "observaciones": "Esto es una observacion",
+            "acta_firmada": "blob"
+        },
+        {
+            "id": 2,
+            "numero_sesion": 2,
+            "fecha": "12-12-12",
+            "tipo": "Ordinaria",
+            "modalidad": "Mixta",
+            "asistentes": [
+              {
+                "id": 1,
+                "nombres": "Giacomo",
+                "apellido_paterno": "Guilizzoni",
+                "apellido_materno": "Guilizzoni"
+              },
+              {
+                "id": 4,
+                "nombres": "Valerie",
+                "apellido_paterno": "Liberty",
+                "apellido_materno": "Guilizzoni"
+              }
+            ],
+            "observaciones": "Esto es una observacion",
+            "acta_firmada": "blob"
+        },
+        {
+            "id": 3,
+            "numero_sesion": 3,
+            "fecha": "12-12-12",
+            "tipo": "Extraordinaria",
+            "modalidad": "Virtual",
+            "asistentes": [
+              {
+                "id": 1,
+                "nombres": "Giacomo",
+                "apellido_paterno": "Guilizzoni",
+                "apellido_materno": "Guilizzoni"
+              },
+              {
+                "id": 3,
+                "nombres": "Marco",
+                "apellido_paterno": "Botton",
+                "apellido_materno": "Guilizzoni"
+              }
+            ],
+            "observaciones": "Esto es una observacion",
+            "acta_firmada": "blob"
+        },
+      {
+        "id": 4,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 5,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 6,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 7,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 8,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 9,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 10,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 11,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 12,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 13,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 14,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 15,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 16,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 17,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 18,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 19,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      },
+      {
+        "id": 20,
+        "numero_sesion": 3,
+        "fecha": "12-12-12",
+        "tipo": "Extraordinaria",
+        "modalidad": "Virtual",
+        "asistentes": [
+          {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+          },
+          {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+          }
+        ],
+        "observaciones": "Esto es una observacion",
+        "acta_firmada": "blob"
+      }
+    ],
+    "miembro": [
+        {
+            "id": 1,
+            "nombres": "Giacomo",
+            "apellido_paterno": "Guilizzoni",
+            "apellido_materno": "Guilizzoni"
+        },
+        {
+            "id": 2,
+            "nombres": "Juan",
+            "apellido_paterno": "Montes",
+            "apellido_materno": "Guilizzoni"
+        },
+        {
+            "id": 3,
+            "nombres": "Marco",
+            "apellido_paterno": "Botton",
+            "apellido_materno": "Guilizzoni"
+        },
+        {
+            "id": 4,
+            "nombres": "Valerie",
+            "apellido_paterno": "Liberty",
+            "apellido_materno": "Guilizzoni"
+        },
+      {
+        "id": 1,
+        "nombres": "Giacomo",
+        "apellido_paterno": "Guilizzoni",
+        "apellido_materno": "Guilizzoni"
+      },
+      {
+        "id": 2,
+        "nombres": "Juan",
+        "apellido_paterno": "Montes",
+        "apellido_materno": "Guilizzoni"
+      },
+      {
+        "id": 3,
+        "nombres": "Marco",
+        "apellido_paterno": "Botton",
+        "apellido_materno": "Guilizzoni"
+      },
+      {
+        "id": 4,
+        "nombres": "Valerie",
+        "apellido_paterno": "Liberty",
+        "apellido_materno": "Guilizzoni"
+      }
+    ]
+}
+
