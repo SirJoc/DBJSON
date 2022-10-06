@@ -5,7 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 This code is only to make it work in json-server
+
 to install -> npm i json-server
+
 to use it  -> json-server --watch .\src\app\dbjson\db.json
 
 ## Code scaffolding
